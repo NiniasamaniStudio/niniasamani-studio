@@ -1,6 +1,6 @@
 export const product = {
   name: 'product',
-  title: 'პროდუქტი',
+  title: 'ჩემი პროდუქტი',
   type: 'document',
   fields: [
     {
